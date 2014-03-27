@@ -1,0 +1,6 @@
+Nº de intervalos: 20
+5.00% de fallos para el umbral 0.00002
+10.00% de fallos para el umbral 0.00001
+10.00% de fallos para el umbral 0.00001
+0.00% de fallos para el umbral 0.04000
+0.00% de fallos para el umbral 0.55480
